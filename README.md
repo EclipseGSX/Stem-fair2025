@@ -6,7 +6,7 @@ In this domain/repository, it will contain the two main code required for the ha
 
 &nbsp;
 
-If you see anything that the code could improve upon please write a comment!
+If you see anything that could be improve upon please write a comment!
 
 &nbsp;
 
@@ -15,8 +15,10 @@ $${\color{red}REQUIREMENTS:}$$
 
 For the code to function you have to import and download somethings.
 - install visual studio code and set the code language to python
-- install arduino IDE on to your computer
-- Copy and past the code for the assistance module and then run it
+- Copy and past the code from the assistance module and then run it
+  
+  &nbsp;
+  
 - Name the code:
 
 <pre> Assistance_module </pre>  
@@ -29,7 +31,7 @@ cause the name have to be very specific so that the code which operates the whol
   
   ![Instruction uno](https://github.com/user-attachments/assets/adc15f03-8bc7-4d4d-b5f9-c04bd100fd86)
   
-  - The terminal is the giant rectangle at the bottom of your screen
+  - (The terminal is the giant rectangle at the bottom of your screen)
   
 &nbsp;
 
