@@ -1,7 +1,7 @@
 
 # Hello there!
 
-Names Joe, You probably found this domain from scaning the QRL at my stemfair board. $${\color{yellow}Great!!!}$$
+Names Joe, You probably found this domain from scaning the QRL at my stemfair board. $${\color{green}Great!!!}$$
 In this domain/repository, it will contain the two main code required for the hand detection.
 
 &nbsp;
@@ -50,7 +50,7 @@ cause the name have to be very specific so that the code which operates the whol
   <pre>pip install pyfirmata2</pre>
   - this installs pyfirmata2
 
-And $${\color{yellow}Voila}$$ you are done with the python part for assistance module great job, Now the main system......
+And $${\color{green}Voila}$$ you are done with the python part for assistance module great job, Now the main system......
 
 &nbsp; 
 
