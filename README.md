@@ -21,7 +21,7 @@ For the code to function you have to import and download somethings and follow t
   &nbsp;
 - $${\color{red}How?:}$$ Upload the code for each arduino, one by one/when you have finished uploading for one arduino, unplug it, plug in the other board, select the board port and then upload it
   - step by stpe guide: https://www.instructables.com/Arduino-Installing-Standard-Firmata/
-- Copy and paste the code from the assistance module.
+- Copy and paste the code from the assistance module into visual studio code.
   - Can be found here
     
   ![Instruction quatre](https://github.com/user-attachments/assets/c864475e-16e4-4e22-89c6-75258a2c8e16)
